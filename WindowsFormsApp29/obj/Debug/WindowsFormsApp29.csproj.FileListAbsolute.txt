@@ -31,3 +31,14 @@ C:\Users\windows1\Desktop\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsF
 C:\Users\windows1\Desktop\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.CoreCompileInputs.cache
 C:\Users\windows1\Desktop\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.exe
 C:\Users\windows1\Desktop\WindowsFormsApp29\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.pdb
+C:\Users\windows1\Source\Repos\Suqbs\kelimeyarisi\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe.config
+C:\Users\windows1\Source\Repos\Suqbs\kelimeyarisi\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.exe
+C:\Users\windows1\Source\Repos\Suqbs\kelimeyarisi\WindowsFormsApp29\bin\Debug\WindowsFormsApp29.pdb
+C:\Users\windows1\Source\Repos\Suqbs\kelimeyarisi\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.AssemblyReference.cache
+C:\Users\windows1\Source\Repos\Suqbs\kelimeyarisi\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.SuggestedBindingRedirects.cache
+C:\Users\windows1\Source\Repos\Suqbs\kelimeyarisi\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Form1.resources
+C:\Users\windows1\Source\Repos\Suqbs\kelimeyarisi\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.Properties.Resources.resources
+C:\Users\windows1\Source\Repos\Suqbs\kelimeyarisi\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.GenerateResource.cache
+C:\Users\windows1\Source\Repos\Suqbs\kelimeyarisi\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.csproj.CoreCompileInputs.cache
+C:\Users\windows1\Source\Repos\Suqbs\kelimeyarisi\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.exe
+C:\Users\windows1\Source\Repos\Suqbs\kelimeyarisi\WindowsFormsApp29\obj\Debug\WindowsFormsApp29.pdb
