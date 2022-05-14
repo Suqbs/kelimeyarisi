@@ -123,12 +123,12 @@
             // 
             this.ımageList1.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("ımageList1.ImageStream")));
             this.ımageList1.TransparentColor = System.Drawing.Color.Transparent;
-            this.ımageList1.Images.SetKeyName(0, "B.png");
-            this.ımageList1.Images.SetKeyName(1, "Y.png");
-            this.ımageList1.Images.SetKeyName(2, "K.png");
-            this.ımageList1.Images.SetKeyName(3, "S.png");
-            this.ımageList1.Images.SetKeyName(4, "O.png");
-            this.ımageList1.Images.SetKeyName(5, "M.png");
+            this.ımageList1.Images.SetKeyName(0, "B");
+            this.ımageList1.Images.SetKeyName(1, "Y");
+            this.ımageList1.Images.SetKeyName(2, "K");
+            this.ımageList1.Images.SetKeyName(3, "S");
+            this.ımageList1.Images.SetKeyName(4, "O");
+            this.ımageList1.Images.SetKeyName(5, "M");
             // 
             // timer1
             // 

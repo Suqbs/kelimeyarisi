@@ -25,13 +25,13 @@ namespace WindowsFormsApp29
 
         //Global değerler
         int puan = 0;
+        int index;
         int listboxDegeri1;
         int listboxDegeri2;
         int zaman = 60;
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            int index;
             zaman = 60;
             textBox1.Clear();
             timer1.Start();
@@ -72,6 +72,8 @@ namespace WindowsFormsApp29
         private void Kelime_Datasini_Al(string harftxt)
         {
             string kelime = textBox1.Text.ToLower(); //ToLower metodu: büyük-küçük harf duyarlılığını ortadan kaldırır.
+            //string imageName = ımageList1.Images.Keys[index];
+            //int pictureBoxIndex = ımageList1.Images.IndexOfKey(imageName);
 
             //Dosya yolunu kendine göre girmelisin.
             using (StreamReader sr = new StreamReader(@"C:\Users\windows1\source\repos\Suqbs\kelimeyarisi\WindowsFormsApp29\Resources\" + harftxt)) // StreamReader fonksiyonu ile okunacak dosyamızı açtırıyoruz. Kelime başına ortalama 4000 satırdır.
@@ -91,15 +93,8 @@ namespace WindowsFormsApp29
         }
         private void button2_Click(object sender, EventArgs e)
         {
-            string kelime = textBox1.Text.ToLower(); //ToLower metodu: büyük-küçük harf duyarlılığını ortadan kaldırır.
-
-            Kelime_Datasini_Al("Y.txt");
-            Kelime_Datasini_Al("K.txt");
-            Kelime_Datasini_Al("M.txt");
-            Kelime_Datasini_Al("O.txt");
-            Kelime_Datasini_Al("S.txt");
-            Kelime_Datasini_Al("Y.txt");
-
+            string imageName = ımageList1.Images.Keys[index];
+            Kelime_Datasini_Al(imageName + ".txt");
 
             //Eğer listboxa aynı değeri girdiysek bunları gerçekleştir. Bunu eventin sonunda yazmamın sebebi, eğer kelime tekrar yazılırken kelimenin baş harfi resimdeki harfle aynıysa while döngüsüne bir daha girip listbox'a onu giriyor. Bunu sonda yazmak o gelen değeri de siliyor. 
             if (listBox1.Items.Contains(textBox1.Text.ToLower()))
